@@ -1,6 +1,6 @@
 # Django + React Full Stack Example
 
-This is a very basic web application that uses Django as the backend and React as the frontend. The project demonstrates how to integrate these two frameworks and create a full-stack web application with features such as user authentication, CRUD operations, and RESTful API.
+This is a very basic web application that uses Django as the backend and React as the frontend. The project demonstrates how to integrate these two frameworks and create a full-stack web application with features such as CRUD operations and RESTful API.
 
 ## Prerequisites
 
